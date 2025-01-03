@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-andremaarinho-red.svg)](https://www.linkedin.com/in/andremaarinho/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andremarinho17/data_projects/master/banner.png" >
+  <img src="https://raw.githubusercontent.com/andremarinho17/data_analytics_projects_en/refs/heads/main/banner.png" >
 </p>
 
 # André Marinho
@@ -50,6 +50,7 @@ Football:
 * [**XG Analysis (Spanish)**](https://www.canva.com/design/DAE_e6LwCyY/Rl5SNCearHxUAR5gpOpXMA/watch?utm_content=DAE_e6LwCyY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [**Weekly Microcycle - Training Tasks (Spanish)**](https://www.canva.com/design/DAFDtSyPbZ8/QDrBXxgC8lgAnA5yUovf8g/view?utm_content=DAFDtSyPbZ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [**Leeds United Analysis (Spanish)**](https://www.canva.com/design/DAEn8zdmubY/9qnwrtPT8YLeO67T_wkXew/view?utm_content=DAEn8zdmubY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+  
 Basketball:
 * **NBA Players Career Duration Prediction:**
     * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
