@@ -25,9 +25,9 @@ Here you can see the projects that I did:
 ## Google Advanced Data Analytics Professional Certification Projects
 
 * **Go Beyond the Numbers: Translate Data into Insights**
-    * [**Unicorn Companies - Data Validation and Cleaning**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Validate_and_clean_your_data.ipynb)
-    * [**Unicorn Companies Data Insights - Part 1**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Discover_what_is_in_your_dataset.ipynb)
-    * [**Unicorn Companies Data Insights - Part 2**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Structure_your_data_Andr%C3%A9_Marinho.ipynb)
+    * [**Unicorn Companies - Data Validation and Cleaning**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Validate_and_clean_your_data.ipynb)
+    * [**Unicorn Companies Data Insights - Part 1**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Discover_what_is_in_your_dataset.ipynb)
+    * [**Unicorn Companies Data Insights - Part 2**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Structure_your_data_Andr%C3%A9_Marinho.ipynb)
     * [**Unicorn Companies Data Insights - Part 3**](https://colab.research.google.com/drive/17XRugth58lBcEx1aJ8HMz9Zg83t6TAdt?usp=sharing)
 * **The Power of Statistics**
     * [**Air Quality Statistical Analysis - Descriptive Statistics**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_descriptive_statistics.ipynb)
