@@ -83,7 +83,7 @@ Here you can see the projects that I did:
      
 * **Capstone Project**
     * People Analytics:
-         * [**Providing data-driven suggestions for HR - Turnover prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google_Advanced_Analytics_Professional_Certificate_Capstone_Salifort_Motors_project_lab_Andr%C3%A9_Marinho.ipynb)
+         * [**Providing data-driven suggestions for HR - Turnover prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Capstone/Google_Advanced_Analytics_Professional_Certificate_Capstone_Salifort_Motors_project_lab_Andr%C3%A9_Marinho.ipynb)
 
           
 ## Data Analytics:
