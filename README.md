@@ -16,10 +16,27 @@ Throughout my career, I have gained extensive experience in diverse industries s
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andremaarinho/)
-* [Site(Portfolio)](https://www.marinhodata.com/en)
+* [Website](https://www.marinhodata.com/en)
 
 ## Projects:
 Here you can see the projects that I did:
+
+## Google Advanced Data Analytics Professional Certification Projects
+
+* **Go Beyond the Numbers: Translate Data into Insights**
+    * [**Unicorn Companies - Data Validation and Cleaning**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Validate_and_clean_your_data.ipynb)
+    * [**Unicorn Companies Data Insights - Part 1**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Discover_what_is_in_your_dataset.ipynb)
+    * [**Unicorn Companies Data Insights - Part 2**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Structure_your_data_Andr%C3%A9_Marinho.ipynb)
+    * [**Unicorn Companies Data Insights - Part 3**](https://colab.research.google.com/drive/17XRugth58lBcEx1aJ8HMz9Zg83t6TAdt?usp=sharing)
+* **The Power of Statistics**
+    * [**Air Quality Statistical Analysis - Descriptive Statistics**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_descriptive_statistics.ipynb)
+    * [**Air Quality Statistical Analysis - Probability Distributions**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_probability_distributions_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Sampling**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_sampling_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Confidence Intervals**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_confidence_intervals_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Hypothesis Testing**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_hypothesis_testing_Andr%C3%A9_Marinho.ipynb)
+* **Regression Analysis: Simplify Complex Data Relationships**
+    *
+
 
 ## Data Analytics:
 * [**Airbnb Data Analysis - Paris**](https://bit.ly/40grgjd)
