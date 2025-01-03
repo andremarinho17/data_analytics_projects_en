@@ -12,6 +12,7 @@ Bachelor's degree in Information Systems from Pontifícia Universidade Católica
 Throughout my career, I have gained extensive experience in diverse industries such as agribusiness, CRM, marketing analytics, finance, insurance, and sports, leading projects that focus on customer segmentation, RFM analysis, profiling studies, and strategic dashboard development. Currently, I am working on an international project in the transport sector, conducting advanced analytical studies and building Power BI dashboards to enhance decision-making related to fleet management and sustainability indicators. Passionate about transforming complex data into clear narratives, I align my work with business objectives to drive informed decisions and business growth. My hands-on approach, combined with a strong commitment to continuous learning, and good communication skills make me a valuable contributor to any data-driven team.
 
 **Technical Skills:** Data Visualization, Data Science, Data Analysis, Machine Learning, AI
+
 **Tools:** Python, Tableau, Power BI, SQL, SAP Analytics Cloud
 
 **Links:**
@@ -55,8 +56,36 @@ Here you can see the projects that I did:
               * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_decision_tree.ipynb)
               * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
               * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
+          
+* **TikTok Video Classification Project:
+    * Project Proposal
+        * [**PACE Strategy Document**](https://drive.google.com/file/d/1uXjwqc0xzgbWpL7ntixI-ewRW03p1F7w/view?usp=sharing)
+        * [**Project Proposal Document**](https://drive.google.com/file/d/1SGmVx1Tq4pruBsERKcd03BRm942TsiwK/view?usp=sharing)
+    * Exploratory Data Analysis:
+        * [**Initial Exploratory Data Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Initial_EDA_Analysis.ipynb)
+        * [**Executive Summary**](https://drive.google.com/file/d/1JbAOpvveKhLH9LqpIS3sEGM9KcB9EgV5/view?usp=sharing)
+    * Data Insights:
+        * [**PACE Strategy Document**](https://drive.google.com/file/d/19dMYOrP8uKzSVSQ96Q9ZaFv78f8o01QJ/view?usp=sharing)
+        * [**Data Analysis and Data Visualization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Exploratory_Data_Analysis_and_Data_Visualization_Andr%C3%A9_Marinho.ipynb)
+        * [**Executive Summary**](https://drive.google.com/file/d/1aRDAGCnP3_UEEwlXDbIZzKPUjFd0yxhx/view?usp=sharing)
+    * Hypothesis Testing:
+        * [**PACE Strategy Document**](https://drive.google.com/file/d/1ZyTUyl88rC0JmZekOWT1l3vMxH0zd8vV/view?usp=sharing)
+        * [**A/B Test**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_A_B_Test.ipynb)
+        * [**Executive Summary**](https://drive.google.com/file/d/1X97NQg3t4XusnrpQHXxn85J2aZ9WQMtt/view?usp=sharing)
+    * Regression Analysis:
+        * [**PACE Strategy Document**](https://drive.google.com/file/d/1hlrtVb-_3lLerrvy8lKBuhw5tLrXb4zv/view?usp=sharing)
+        * [**Regression Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Regression_Analysis.ipynb)
+        * [**Executive Summary**](https://drive.google.com/file/d/14RHObFBvw8BQ6shEs_3ZEK8LjEEdnEXH/view?usp=sharing)
+    * Advanced Machine Learning Algorithms:
+        * [**PACE Strategy Document**](https://drive.google.com/file/d/1SKl7-u973bHMN-WKSmQ_ILPSbSaKidjQ/view?usp=sharing)
+        * [**Applying advanced machine learning models**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Applying_advanced_machine_larning_models.ipynb)
+        * [**Executive Summary**](https://drive.google.com/file/d/1ABhDh_qXHBoJaNEF4sndqIjIX-fR0P9O/view?usp=sharing)
+     
+* **Capstone Project**
+    * People Analytics:
+         * [**Providing data-driven suggestions for HR - Turnover prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google_Advanced_Analytics_Professional_Certificate_Capstone_Salifort_Motors_project_lab_Andr%C3%A9_Marinho.ipynb)
 
-              
+          
 ## Data Analytics:
 * [**Airbnb Data Analysis - Paris**](https://bit.ly/40grgjd)
 * [**Crime Analysis in Rio de Janeiro**](https://bit.ly/4a3Berq)
