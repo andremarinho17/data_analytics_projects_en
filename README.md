@@ -44,13 +44,12 @@ Here you can see the projects that I did:
          * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_logistic_regression.ipynb)
 
 * **The Nuts and Bolts of Machine Learning**
-Basketball Analytics:
-**NBA Players Career Duration Prediction:**
-    * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
-    * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
- 
-Clustering Analysis:
-    * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb)
+    * Basketball Analytics:
+         * **NBA Players Career Duration Prediction:**
+              * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
+              * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
+    * Clustering Analysis:
+        * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb)
 
 Travel Analytics:
 **Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
