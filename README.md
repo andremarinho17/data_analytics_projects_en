@@ -57,7 +57,7 @@ Here you can see the projects that I did:
               * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
               * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
           
-* **TikTok Video Classification Project:
+* **TikTok Video Classification Project**:
     * Project Proposal
         * [**PACE Strategy Document**](https://drive.google.com/file/d/1uXjwqc0xzgbWpL7ntixI-ewRW03p1F7w/view?usp=sharing)
         * [**Project Proposal Document**](https://drive.google.com/file/d/1SGmVx1Tq4pruBsERKcd03BRm942TsiwK/view?usp=sharing)
