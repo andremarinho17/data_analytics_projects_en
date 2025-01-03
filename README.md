@@ -30,55 +30,55 @@ Here you can see the projects that I did:
     * [**Unicorn Companies Data Insights - Part 2**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Structure_your_data_Andr%C3%A9_Marinho.ipynb)
     * [**Unicorn Companies Data Insights - Part 3**](https://colab.research.google.com/drive/17XRugth58lBcEx1aJ8HMz9Zg83t6TAdt?usp=sharing)
 * **The Power of Statistics**
-    * [**Air Quality Statistical Analysis - Descriptive Statistics**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_descriptive_statistics.ipynb)
-    * [**Air Quality Statistical Analysis - Probability Distributions**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_probability_distributions_Andr%C3%A9_Marinho.ipynb)
-    * [**Air Quality Statistical Analysis - Sampling**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_sampling_Andr%C3%A9_Marinho.ipynb)
-    * [**Air Quality Statistical Analysis - Confidence Intervals**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_confidence_intervals_Andr%C3%A9_Marinho.ipynb)
-    * [**Air Quality Statistical Analysis - Hypothesis Testing**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_hypothesis_testing_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Descriptive Statistics**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Power%20of%20Statistics/Activity_Explore_descriptive_statistics.ipynb)
+    * [**Air Quality Statistical Analysis - Probability Distributions**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Power%20of%20Statistics/Activity_Explore_probability_distributions_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Sampling**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Power%20of%20Statistics/Activity_Explore_sampling_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Confidence Intervals**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Power%20of%20Statistics/Activity_Explore_confidence_intervals_Andr%C3%A9_Marinho.ipynb)
+    * [**Air Quality Statistical Analysis - Hypothesis Testing**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Power%20of%20Statistics/Activity_Explore_hypothesis_testing_Andr%C3%A9_Marinho.ipynb)
 * **Regression Analysis: Simplify Complex Data Relationships**
     * Marketing Analytics:
-         * [**Applying simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Run_simple_linear_regression.ipynb)
-         * [**Evaluating simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Evaluate_simple_linear_regression.ipynb)
-         * [**Performing multiple linear regression to estimate sales in a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_multiple_linear_regression.ipynb)
-         * [**Applying advanced hypothesis testing for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Hypothesis_testing_with_Python.ipynb)
+         * [**Applying simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Regression%20Analysis%3A%20Simplify%20Complex%20Data%20Relationships/Activity_Run_simple_linear_regression.ipynb)
+         * [**Evaluating simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Regression%20Analysis%3A%20Simplify%20Complex%20Data%20Relationships/Activity_Evaluate_simple_linear_regression.ipynb)
+         * [**Performing multiple linear regression to estimate sales in a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Regression%20Analysis%3A%20Simplify%20Complex%20Data%20Relationships/Activity_Perform_multiple_linear_regression.ipynb)
+         * [**Applying advanced hypothesis testing for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Regression%20Analysis%3A%20Simplify%20Complex%20Data%20Relationships/Activity_Hypothesis_testing_with_Python.ipynb)
     * Travel Analytics:
-         * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_logistic_regression.ipynb)
+         * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Regression%20Analysis%3A%20Simplify%20Complex%20Data%20Relationships/Activity_Perform_logistic_regression.ipynb)
 
 * **The Nuts and Bolts of Machine Learning**
     * Basketball Analytics:
          * **NBA Players Career Duration Prediction:**
-              * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
-              * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
+              * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning%20/Activity_Perform_feature_engineering.ipynb)
+              * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning%20/Activity_Build_a_Naive_Bayes_model.ipynb)
     * Clustering Analysis:
-        * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb).
+        * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_K_means_model.ipynb).
     * Travel Analytics:
          * **Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
-              * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_decision_tree.ipynb)
-              * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
-              * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
+              * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_decision_tree.ipynb)
+              * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
+              * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
           
 * **TikTok Video Classification Project**:
     * Project Proposal
         * [**PACE Strategy Document**](https://drive.google.com/file/d/1uXjwqc0xzgbWpL7ntixI-ewRW03p1F7w/view?usp=sharing)
         * [**Project Proposal Document**](https://drive.google.com/file/d/1SGmVx1Tq4pruBsERKcd03BRm942TsiwK/view?usp=sharing)
     * Exploratory Data Analysis:
-        * [**Initial Exploratory Data Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Initial_EDA_Analysis.ipynb)
+        * [**Initial Exploratory Data Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Tiktok%20Project/TikTok_Project_Initial_EDA_Analysis.ipynb)
         * [**Executive Summary**](https://drive.google.com/file/d/1JbAOpvveKhLH9LqpIS3sEGM9KcB9EgV5/view?usp=sharing)
     * Data Insights:
         * [**PACE Strategy Document**](https://drive.google.com/file/d/19dMYOrP8uKzSVSQ96Q9ZaFv78f8o01QJ/view?usp=sharing)
-        * [**Data Analysis and Data Visualization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Exploratory_Data_Analysis_and_Data_Visualization_Andr%C3%A9_Marinho.ipynb)
+        * [**Data Analysis and Data Visualization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Tiktok%20Project/TikTok_Exploratory_Data_Analysis_and_Data_Visualization_Andr%C3%A9_Marinho.ipynb)
         * [**Executive Summary**](https://drive.google.com/file/d/1aRDAGCnP3_UEEwlXDbIZzKPUjFd0yxhx/view?usp=sharing)
     * Hypothesis Testing:
         * [**PACE Strategy Document**](https://drive.google.com/file/d/1ZyTUyl88rC0JmZekOWT1l3vMxH0zd8vV/view?usp=sharing)
-        * [**A/B Test**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_A_B_Test.ipynb)
+        * [**A/B Test**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Tiktok%20Project/TikTok_Project_A_B_Test.ipynb)
         * [**Executive Summary**](https://drive.google.com/file/d/1X97NQg3t4XusnrpQHXxn85J2aZ9WQMtt/view?usp=sharing)
     * Regression Analysis:
         * [**PACE Strategy Document**](https://drive.google.com/file/d/1hlrtVb-_3lLerrvy8lKBuhw5tLrXb4zv/view?usp=sharing)
-        * [**Regression Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Regression_Analysis.ipynb)
+        * [**Regression Analysis**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Tiktok%20Project/TikTok_Project_Regression_Analysis.ipynb)
         * [**Executive Summary**](https://drive.google.com/file/d/14RHObFBvw8BQ6shEs_3ZEK8LjEEdnEXH/view?usp=sharing)
     * Advanced Machine Learning Algorithms:
         * [**PACE Strategy Document**](https://drive.google.com/file/d/1SKl7-u973bHMN-WKSmQ_ILPSbSaKidjQ/view?usp=sharing)
-        * [**Applying advanced machine learning models**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/TikTok_Project_Applying_advanced_machine_larning_models.ipynb)
+        * [**Applying advanced machine learning models**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Tiktok%20Project/TikTok_Project_Applying_advanced_machine_larning_models.ipynb)
         * [**Executive Summary**](https://drive.google.com/file/d/1ABhDh_qXHBoJaNEF4sndqIjIX-fR0P9O/view?usp=sharing)
      
 * **Capstone Project**
@@ -118,8 +118,8 @@ Football:
   
 Basketball:
 * **NBA Players Career Duration Prediction:**
-    * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
-    * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
+    * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning%20/Activity_Perform_feature_engineering.ipynb)
+    * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning%20/Activity_Build_a_Naive_Bayes_model.ipynb)
 
 
 ---
