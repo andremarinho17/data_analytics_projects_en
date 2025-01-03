@@ -18,7 +18,7 @@ Throughout my career, I have gained extensive experience in diverse industries s
 * [LinkedIn](https://www.linkedin.com/in/andremaarinho/)
 * [Website](https://www.marinhodata.com/en)
 
-## Projects:
+## Projects:mm
 Here you can see the projects that I did:
 
 ## Google Advanced Data Analytics Professional Certification Projects
@@ -35,8 +35,29 @@ Here you can see the projects that I did:
     * [**Air Quality Statistical Analysis - Confidence Intervals**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_confidence_intervals_Andr%C3%A9_Marinho.ipynb)
     * [**Air Quality Statistical Analysis - Hypothesis Testing**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_hypothesis_testing_Andr%C3%A9_Marinho.ipynb)
 * **Regression Analysis: Simplify Complex Data Relationships**
-    *
+Marketing Analytics:
+    * [**Applying simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Run_simple_linear_regression.ipynb)
+    * [**Evaluating simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Evaluate_simple_linear_regression.ipynb)
+    * [**Performing multiple linear regression to estimate sales in a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_multiple_linear_regression.ipynb)
+    * [**Applying advanced hypothesis testing for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Hypothesis_testing_with_Python.ipynb)
 
+Travel Analytics:
+    * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_logistic_regression.ipynb)
+
+* **The Nuts and Bolts of Machine Learning**
+Basketball Analytics:
+**NBA Players Career Duration Prediction:**
+    * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
+    * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
+ 
+Clustering Analysis:
+    * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb)
+
+Travel Analytics:
+**Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
+    * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_decision_tree.ipynb)
+    * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
+    * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
 
 ## Data Analytics:
 * [**Airbnb Data Analysis - Paris**](https://bit.ly/40grgjd)
