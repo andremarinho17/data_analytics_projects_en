@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-andremaarinho-red.svg)](https://www.linkedin.com/in/andremaarinho/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andremarinho17/data_analytics_projects_en/refs/heads/main/banner.png" >
+  <img src="https://raw.githubusercontent.com/andremarinho17/data_analytics_projects_en/refs/heads/main/img/banner.png" >
 </p>
 
 # André Marinho
