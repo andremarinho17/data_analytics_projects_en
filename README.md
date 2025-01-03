@@ -35,14 +35,13 @@ Here you can see the projects that I did:
     * [**Air Quality Statistical Analysis - Confidence Intervals**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_confidence_intervals_Andr%C3%A9_Marinho.ipynb)
     * [**Air Quality Statistical Analysis - Hypothesis Testing**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Explore_hypothesis_testing_Andr%C3%A9_Marinho.ipynb)
 * **Regression Analysis: Simplify Complex Data Relationships**
-Marketing Analytics:
-    * [**Applying simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Run_simple_linear_regression.ipynb)
-    * [**Evaluating simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Evaluate_simple_linear_regression.ipynb)
-    * [**Performing multiple linear regression to estimate sales in a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_multiple_linear_regression.ipynb)
-    * [**Applying advanced hypothesis testing for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Hypothesis_testing_with_Python.ipynb)
-
-Travel Analytics:
-    * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_logistic_regression.ipynb)
+    * Marketing Analytics:
+         * [**Applying simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Run_simple_linear_regression.ipynb)
+         * [**Evaluating simple linear regression for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Evaluate_simple_linear_regression.ipynb)
+         * [**Performing multiple linear regression to estimate sales in a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_multiple_linear_regression.ipynb)
+         * [**Applying advanced hypothesis testing for a marketing campaign**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Hypothesis_testing_with_Python.ipynb)
+    * Travel Analytics:
+         * [**Performing logistic regression to predict customer satisfaction for an airline company**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_logistic_regression.ipynb)
 
 * **The Nuts and Bolts of Machine Learning**
 Basketball Analytics:
