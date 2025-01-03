@@ -51,7 +51,7 @@ Here you can see the projects that I did:
     * Clustering Analysis:
         * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb).
     * Travel Analytics:
-         * ***Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
+         * **Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
               * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_decision_tree.ipynb)
               * [**Applying Random Forest**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_random_forest_model_Andr%C3%A9_Marinho.ipynb)
               * [**Applying Gradient Boosting**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_an_XGBoost_model_Andr%C3%A9_Marinho.ipynb)
