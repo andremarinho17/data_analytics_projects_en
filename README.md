@@ -49,7 +49,11 @@ Here you can see the projects that I did:
               * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
               * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
     * Clustering Analysis:
-        * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb)
+        * [**Building a K-means model for a scientific organization**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_K_means_model.ipynb).
+    * Basketball Analytics:
+         * **NBA Players Career Duration Prediction:**
+              * [**Feature Engineering**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Perform_feature_engineering.ipynb)
+              * [**Prediction**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_Naive_Bayes_model.ipynb)
     * Travel Analytics:
         * **Applying advanced machine learning algorithms to predict customer satisfaction for an airline company:**
               * [**Applying Decision Tree**](https://github.com/andremarinho17/data_analytics_projects_en/blob/main/Activity_Build_a_decision_tree.ipynb)
